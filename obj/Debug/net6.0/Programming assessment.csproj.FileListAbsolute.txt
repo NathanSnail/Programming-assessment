@@ -1,0 +1,15 @@
+C:\Users\natha\Documents\Programming assessment\bin\Debug\net6.0\Programming assessment.exe
+C:\Users\natha\Documents\Programming assessment\bin\Debug\net6.0\Programming assessment.deps.json
+C:\Users\natha\Documents\Programming assessment\bin\Debug\net6.0\Programming assessment.runtimeconfig.json
+C:\Users\natha\Documents\Programming assessment\bin\Debug\net6.0\Programming assessment.dll
+C:\Users\natha\Documents\Programming assessment\bin\Debug\net6.0\ref\Programming assessment.dll
+C:\Users\natha\Documents\Programming assessment\bin\Debug\net6.0\Programming assessment.pdb
+C:\Users\natha\Documents\Programming assessment\obj\Debug\net6.0\Programming assessment.csproj.AssemblyReference.cache
+C:\Users\natha\Documents\Programming assessment\obj\Debug\net6.0\Programming assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\Programming assessment\obj\Debug\net6.0\Programming assessment.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\Programming assessment\obj\Debug\net6.0\Programming assessment.AssemblyInfo.cs
+C:\Users\natha\Documents\Programming assessment\obj\Debug\net6.0\Programming assessment.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\Programming assessment\obj\Debug\net6.0\Programming assessment.dll
+C:\Users\natha\Documents\Programming assessment\obj\Debug\net6.0\ref\Programming assessment.dll
+C:\Users\natha\Documents\Programming assessment\obj\Debug\net6.0\Programming assessment.pdb
+C:\Users\natha\Documents\Programming assessment\obj\Debug\net6.0\Programming assessment.genruntimeconfig.cache
